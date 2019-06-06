@@ -3,10 +3,10 @@
 ## Introduction
 Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum Blockchain topics
 
-* zksnark
-* zero proof knowledge
-* oracles
-* privacy
+* Zksnark
+* Zero proof knowledge
+* Oracles
+* Privacy
 * GDPR
 * IPFS
 * Artificial Intelligence 
