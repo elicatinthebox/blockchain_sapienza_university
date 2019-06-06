@@ -17,3 +17,7 @@ Contributors names and contact info
 
 * [Elisa Romondia](https://www.linkedin.com/in/elisa-romondia/)
 * [Lorenzo Zaccagnini](https://www.linkedin.com/in/lorenzo-zaccagnini/)
+
+## QR Code
+
+![QRCODE_Sapienza](https://github.com/elisaromondia/blockchain_sapienza_university/blob/master/QRCODE_Sapienza.png)
