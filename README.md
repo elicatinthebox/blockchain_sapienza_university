@@ -11,8 +11,9 @@ Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum
 * IPFS
 * Artificial Intelligence 
 * [Devoleum project](https://www.devoleum.com/)
+* Blockchain and Law
 
-[Download here the PDF(https://github.com/elisaromondia/blockchain_sapienza_university/blob/master/Blockchain%20Sapienza%20SLIDE.pdf)
+[Download here the PDF](https://github.com/elisaromondia/blockchain_sapienza_university/blob/master/Blockchain%20Sapienza%20SLIDE.pdf)
 
 ## Authors
 Contributors names and contact info
