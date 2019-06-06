@@ -10,6 +10,7 @@ Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum
 * GDPR
 * IPFS
 * Artificial Intelligence 
+* [Devoleum project](https://www.devoleum.com/)
 
 ## Authors
 Contributors names and contact info
