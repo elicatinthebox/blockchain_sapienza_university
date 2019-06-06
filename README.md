@@ -12,7 +12,7 @@ Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum
 * Artificial Intelligence 
 * [Devoleum project](https://www.devoleum.com/)
 
-[Download here the PDF](Blockchain Sapienza SLIDE.pdf)
+[Download here the PDF(https://github.com/elisaromondia/blockchain_sapienza_university/blob/master/Blockchain%20Sapienza%20SLIDE.pdf)
 
 ## Authors
 Contributors names and contact info
