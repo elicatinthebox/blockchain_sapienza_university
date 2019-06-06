@@ -1,7 +1,7 @@
 # Blockchain Sapienza University
 
 ## Introduction
-Educational resources by Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum Blockchain topics
+Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum Blockchain topics
 
 * zksnark
 * zero proof knowledge
